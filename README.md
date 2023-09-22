@@ -51,7 +51,7 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 ## Screenshot
 ![app](images/BookSearch.jpg)
-
+![sandbox](images/Sandbox.jpg)
 ## Links
 
 [deployed site]()
