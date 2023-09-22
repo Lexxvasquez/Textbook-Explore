@@ -50,10 +50,10 @@ THEN I am logged out of the site and presented with a menu with the options Sear
 
 
 ## Screenshot
-
+![app](images/BookSearch.jpg)
 
 ## Links
 
 [deployed site]()
 
-[github repo]()
+[github repo](https://github.com/Lexxvasquez/Textbook-Explore)
